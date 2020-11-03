@@ -609,6 +609,12 @@ section.why-us {
     padding-right: 45px;
 }
 
+.tabs-content-imgwidth img {
+    width: 40%;
+    overflow: hidden;
+    padding-right: 45px;
+}
+
 @media screen and (max-width: 767px) {
 
   .tabs-content img {
