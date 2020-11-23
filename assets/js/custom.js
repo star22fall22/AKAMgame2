@@ -77,8 +77,8 @@
 		// //正確答案2021/1/1 00:00 ==> 1609430400000;
 		// //正確答案2020/11/4 11:08 ==> 1604459283000;
 		// ！！https://www.cadch.com/article/timestamp/index.php！！
-		var t = Date.parse(endtime) - Date.parse(new Date());
-		t = 1625068800000 - Date.parse(new Date());
+		var t = 1625068800000 - Date.parse(new Date());
+		
 	    var seconds = Math.floor((t / 1000) % 60);
 	    var minutes = Math.floor((t / 1000 / 60) % 60);
 	    var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
