@@ -1,5 +1,7 @@
 # 更新日記
 
+2021/3/11：新增R18認證頁（連結未建：https://star22fall22.github.io/akamGame2/AgeCert.html ）、更新往頁名稱titale、更新首頁博士圖padding、更新尚未開放之按鈕樣式。
+
 2021/3/8：更改桃拉plurk誤植、新增header下拉中的預告片、修改預告片旁中文描述、修正行動裝置開啟時前導與預告的hidden-sm有模板範例字問題、前導與預告文字敘述置左(行動裝置才有影響)、更新萬聖節篇header(和首頁一致)。
 
 2021/3/6：更改時間倒數4/16 19:00、更新STAFF工作項目(XX結局線->結局線)防劇透、換背景。 >>>>>>>>**搬家 https://a-k-a-m.github.io/TheScarletForest**
