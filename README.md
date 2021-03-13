@@ -1,5 +1,7 @@
 # 更新日記
 
+2021/3/14：更新staff表中部份字句、修改開頭處預告/遊戲/心得之icon、拿掉萬聖節分頁的header。
+
 2021/3/12：更新staff表中波波名稱、波波頭貼、墨兒頭貼。
 
 2021/3/11：新增R18認證頁（連結未建：https://star22fall22.github.io/akamGame2/AgeCert.html ）、更新網頁名稱title、更新首頁博士圖padding、更新尚未開放之按鈕樣式。
