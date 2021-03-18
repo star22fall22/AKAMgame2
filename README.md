@@ -1,5 +1,7 @@
 # 更新日記
 
+2021/3/18：更新footer中噗浪和LINE連結、新增配音陣容。 **>>>此版本同步至[發布網頁](https://a-k-a-m.github.io/TheScarletForest)**
+
 2021/3/15：更新PV1+PV2 **>>>此版本同步至[發布網頁](https://a-k-a-m.github.io/TheScarletForest)**
 
 2021/3/14：更新staff表中部份字句、修改開頭處預告/遊戲/心得之icon、拿掉萬聖節分頁的header。
