@@ -1,6 +1,6 @@
 # 更新日誌
 
-2021/4/12：更改主題色調、新增TESTIMONIAL、拿掉header中HOME、修改HOME中三個快捷區塊順序&內容&fafaicon、更新staff表中CHEN頭貼、修改心得募集區塊文字敘述&連結到表單。
+2021/4/12：更改主題色調、新增TESTIMONIAL、拿掉header中HOME、修改HOME中三個快捷區塊順序&內容&fafaicon、更新staff表中CHEN頭貼、修改心得募集區塊文字敘述&連結到表單、倒數計時終點改4/16 23:59。
 
 2021/3/19：新增幕後花絮架構（https://star22fall22.github.io/akamGame2/bts.html ）
 
