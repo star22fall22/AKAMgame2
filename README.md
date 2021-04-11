@@ -1,5 +1,7 @@
 # 更新日記
 
+2021/4/12：更改主題色調、新增TESTIMONIAL、拿掉header中HOME、修改HOME中三個快捷區塊順序&內容&fafaicon、更新staff表中CHEN頭貼、修改心得募集區塊文字敘述&連結到表單。
+
 2021/3/19：新增幕後花絮架構（https://star22fall22.github.io/akamGame2/bts.html ）
 
 2021/3/18：更新footer中噗浪和LINE連結、新增配音陣容。 **>>>此版本同步至[發布網頁](https://a-k-a-m.github.io/TheScarletForest)**
